@@ -1,0 +1,34 @@
+body{
+  overflow: hidden;
+}
+.logo{
+  display: block;
+  margin: auto;
+  width: 250px;
+  height: 100px;
+}
+.contenedor{
+  text-align: center;
+  margin: 0 auto;
+  height: 150px;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+.contenedor button{
+  margin-top: 15px;
+}
+.pokemon{
+  height: 200px;
+  display:inline-block;
+  width: 200px;
+  text-align: center;
+}
+#contenedor{
+  text-align: center;
+}
+.center{
+  text-align: center
+}
